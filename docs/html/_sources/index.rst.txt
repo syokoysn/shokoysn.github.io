@@ -8,8 +8,8 @@ Welcome to shokoysn's documentation!
 
 News
 ^^^^
-
 Pythonについては変数（数値・文字列，リスト，タプル，辞書），制御構文（for，if），関数，クラスを理解している必要があります．
+
 
 内容について
 ^^^^^^^^^^^^
