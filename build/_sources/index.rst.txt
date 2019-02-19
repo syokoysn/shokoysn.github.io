@@ -9,8 +9,7 @@ Welcome to shokoysn's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-	 notebooks/*
+    notebooks/*
 
 
 Indices and tables
