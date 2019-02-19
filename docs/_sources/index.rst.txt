@@ -5,7 +5,35 @@
 
 Welcome to shokoysn's documentation!
 ====================================
+メディカルAI専門コース オンライン講義資料
+=========================================
 
+
+News
+^^^^
+2018/12/17: 講義資料Ver 1.0を公開
+
+本講義資料について
+^^^^^^^^^^^^^^^^^^
+
+本ページは **日本メディカルAI学会公認資格：メディカルAI専門コースのオンライン講義資料（以下本資料）** です．
+本講料を読むことで，医療で人工知能技術を使う際に最低限必要な知識や実践方法を学ぶことができます．本資料は全てGoogle Colaboratoryというサービスを用いて執筆されており，各章はJupyter notebook (iPython notebook)の形式（.ipynb）で以下のリポジトリにて配布されています（notebooksディレクトリ以下に全ての.ipynbファイルが入っています）： `japan-medical-ai/medical-ai-course-materials <https://github.com/japan-medical-ai/medical-ai-course-materials>`_
+
+想定受講者
+^^^^^^^^^^
+
+受講想定者として大学生，大学院生，医療従事者を想定しています．
+また，Python，Google Colaboratoryの基本的な使い方を知っていることを想定しています．
+Python，Google Colaboratoryについては様々な参考資料や解説サイトがあります．例えば，以下のような資料も参考にしてください．
+
+* `Python学習サイト集 <https://qiita.com/kita33/items/8891c7c04b664e7669bf>`_
+* `ゼロからはじめるPython第26回 (Colaboratorの使い方について） <https://news.mynavi.jp/article/zeropython-26/>`_
+* `Google colaboratory FAQ <https://research.google.com/colaboratory/faq.html>`_
+
+Pythonについては変数（数値・文字列，リスト，タプル，辞書），制御構文（for，if），関数，クラスを理解している必要があります．
+
+内容について
+^^^^^^^^^^^^
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
