@@ -14,9 +14,9 @@ Pythonについては変数（数値・文字列，リスト，タプル，辞�
 内容について
 ^^^^^^^^^^^^
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-    ../notebooks/make_data
+  :maxdepth: 2
+   
+  make_data
 
 
 Indices and tables
